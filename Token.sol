@@ -5,7 +5,7 @@ import '@openzeppelin/contracts/token/ERC20/IERC20.sol';
 import '@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol';
 import '@openzeppelin/contracts/access/Ownable.sol';
 
-contract PopoTheFrog is ERC20Capped, Ownable {
+contract AvaEthernity is ERC20Capped, Ownable {
     event Mint(uint indexed amount);
     event Burn(uint indexed amount);
 
